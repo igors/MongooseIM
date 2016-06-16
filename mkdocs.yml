@@ -57,6 +57,7 @@ pages:
       - 'Metrics': 'operation-and-maintenance/Mongoose-metrics.md'
   - "Developer's guide":
       - 'Testing MongooseIM': 'developers-guide/Testing-MongooseIM.md'
+      - 'Merging guidelines': 'developers-guide/Merging-guidelines.md'
       - 'REST interface to metrics': 'developers-guide/REST-interface-to-metrics.md'
       - 'Hooks and Handlers': 'developers-guide/Hooks-and-handlers.md'
       - 'Hooks description': 'developers-guide/hooks_description.md'
